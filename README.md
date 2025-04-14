@@ -1,16 +1,15 @@
-## Hi there 👋
+# Raphael Diniz
 
-<!--
-**devraphaeldiniz/devraphaeldiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou Raphael Diniz — desenvolvedor fullstack em transição, com background técnico em engenharia mecânica, logística e processos industriais.  
 
-Here are some ideas to get you started:
+🔧 De sistemas mecânicos ao código, minha missão é construir soluções que entreguem performance real.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Hoje aplico minha experiência prática em processos complexos para desenvolver aplicações web com propósito, eficiência e segurança.  
+
+🧰 Stack atual: JavaScript | React | Node.js | MySQL | TypeScript  
+
+📌 Em construção: projetos que combinam engenharia, dados e tecnologia.  
+
+🌱 Em constante aprendizado — segurança da informação, APIs, clean code e testes.  
+
+📫 Me encontra por aqui ou no LinkedIn: [linkedin.com/in/raphaeldinizdev](https://www.linkedin.com/in/raphaeldinizdev)
