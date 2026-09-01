@@ -33,11 +33,14 @@ Desenvolvedor de Software focado em construir aplicações web modernas, eficien
 
 ---
 
-### 📊 Atividades no GitHub
+### 🎯 Foco Atual & Boas Práticas
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devraphaeldiniz&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividades no GitHub" />
-</div>
+| Área | Competências & Objetivos |
+| :--- | :--- |
+| **Arquitetura** | Desenvolvimento de APIs RESTful, MVC, Clean Code e separação de camadas. |
+| **Banco de Dados** | Modelagem relacional, queries otimizadas e integridade referencial. |
+| **Front-end** | Interfaces componentizadas, reatividade com Vue.js e design responsivo. |
+| **Versionamento** | Git Flow, branches semânticas e padronização com Conventional Commits. |
 
 ---
 
