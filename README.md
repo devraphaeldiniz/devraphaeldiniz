@@ -1,50 +1,54 @@
 # Olá, eu sou Raphael Diniz 👋
 
-Desenvolvedor de Software focado em construir aplicações web modernas, eficientes e escaláveis. Experiência no ecossistema PHP e Vue.js, com ênfase em boas práticas, arquitetura limpa e integração de sistemas.
+Desenvolvedor de Software focado em construir aplicações modernas, escaláveis e seguras. Experiência sólida no ecossistema TypeScript, Node.js, Next.js e bancos de dados relacionais (PostgreSQL/Supabase), implementando arquiteturas orientadas a segurança (RLS, RBAC, 2FA), filas assíncronas e integrações com IA.
 
 ---
 
 ### 💻 Stack Tecnológica
 
-**Back-end & Banco de Dados:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Linguagens & Back-end:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Front-end:**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Bancos de Dados & BaaS:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**DevOps & Ferramentas:**  
+**Front-end & Estilização:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**DevOps & Boas Práticas:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🚀 Principais Projetos
 
-* 📌 **[Nome do Projeto Back-end]**: API RESTful estruturada com PHP, autenticação segura e persistência em banco relacional.  
-  ↳ *Stack: PHP, MySQL, Docker*
-* 📌 **[Nome do Projeto Full Stack]**: Aplicação web com interface reativa em Vue.js consumindo serviços e rotas integradas.  
-  ↳ *Stack: Vue.js, JavaScript, PHP, CSS3*
+* 📌 **[E-commerce Backend (Supabase)](https://github.com/devraphaeldiniz/ecommerce-supabase)**: Infraestrutura de e-commerce com PostgreSQL, 35+ índices, RLS granular, RBAC em 4 níveis, auditoria de segurança, CI/CD e 27 testes automatizados.
+* 📌 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação full stack (Next.js 14, Supabase) integrada à API do Google Gemini para geração pedagógica estruturada com validação em Zod. ([Live Demo](https://plano-aula-4i0xhojbb-raphaels-projects-004b90a9.vercel.app))
+* 📌 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma completa de aluguel de veículos construída com Next.js 15, TypeScript e Nhost, contendo 2FA/TOTP, rate limiting, audit logs e painel administrativo.
+* 📌 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Motor de mensageria com Node.js e Express, utilizando workers assíncronos e fila persistida em SQLite independente de estado em memória.
 
 ---
 
-### 🎯 Foco Atual & Boas Práticas
+### 🎯 Foco Técnico & Engenharia
 
-| Área | Competências & Objetivos |
+| Área | Competências & Domínio |
 | :--- | :--- |
-| **Arquitetura** | Desenvolvimento de APIs RESTful, MVC, Clean Code e separação de camadas. |
-| **Banco de Dados** | Modelagem relacional, queries otimizadas e integridade referencial. |
-| **Front-end** | Interfaces componentizadas, reatividade com Vue.js e design responsivo. |
-| **Versionamento** | Git Flow, branches semânticas e padronização com Conventional Commits. |
+| **Segurança & Auth** | Row Level Security (RLS), RBAC, 2FA/TOTP, JWT rotativo, Rate Limiting e Triggers de Auditoria. |
+| **Arquitetura de Dados** | Modelagem relacional avançada, Materialized Views, índices GIN/B-Tree e persistência JSONB. |
+| **Full Stack & IA** | Next.js (App Router), Server Components, tipagem estática via Zod e consumo de APIs LLM. |
+| **Processamento Assíncrono** | Arquitetura baseada em workers desacoplados e filas persistentes com retry automático. |
 
 ---
 
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devraphaeldiniz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astarothakuli@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelaloisiodiniz@gmail.com)
