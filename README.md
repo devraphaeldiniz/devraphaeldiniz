@@ -1,8 +1,8 @@
-# Olá, sou Raphael Diniz 👋 <img src="https://github.com/media-cdn.instagram.com/v/t51.2885-19/44884218_345707502852619_2446069589734326272_n.jpg?_nc_ht=aws.ul.facebook.com&_nc_cat=1&_nc_ohc=abc&edm=AP4sbd4BAAAA&ccg=open-source&oh=00_AYB... (exemplo)" width="30" align="right"/>
+# Olá, sou Raphael Diniz 👋
 
-> **Estudante de Engenharia de Software** e Desenvolvedor Back-end focado em projetar arquiteturas resilientes, seguras e de alta performance. 
+> **Estudante de Engenharia de Software** e Desenvolvedor Back-end com foco em concorrência, consistência transacional e modelagem de dados.
 
-Trabalho na intersecção entre lógica de baixo nível, concorrência, consistência transacional e modelagem avançada de dados. Atualmente expandindo meu ecossistema principal (**TypeScript/Node.js, PHP/Laravel**) para microsserviços e sistemas de alta performance em **Go (Golang)**.
+Trabalho na modelagem e implementação de regras de negócio em ambientes concorrentes, garantindo consistência transacional e integridade referencial. Ecossistema principal em **Go**, **TypeScript/Node.js** e **PHP/Laravel**, integrados a **PostgreSQL**, **Redis** e mensageria assíncrona.
 
 ---
 
@@ -32,12 +32,12 @@ Trabalho na intersecção entre lógica de baixo nível, concorrência, consist�
 
 ### 🚀 Principais Projetos em Destaque
 
-- ⚡ **[Fintech Core Engine](https://github.com/devraphaeldiniz/fintech-core-engine)**: Core bancário de alta performance em Go com partidas dobradas (*Double-Entry Bookkeeping*), concorrência atômica, locks distribuídos (Redis) e particionamento de tabelas no PostgreSQL[cite: 2].
-- 🛒 **[Nexus Commerce](https://github.com/devraphaeldiniz/nexus-commerce)**: Marketplace multi-tenant escalável construído com Laravel 11, fluxo de escrow financeiro, moderação de lojistas em tempo real e painel operacional unificado[cite: 8].
-- 🔒 **[E-commerce Backend (Supabase)](https://github.com/devraphaeldiniz/ecommerce-supabase)**: Infraestrutura robusta com PostgreSQL, 35+ índices, RLS granular, RBAC em 4 níveis, auditoria de segurança, CI/CD e testes automatizados[cite: 1].
-- 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma completa de aluguel com autenticação enterprise (2FA/TOTP), rate limiting, audit logs e painel administrativo[cite: 3].
-- 🤖 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação full stack integrada à API do Google Gemini para geração estruturada com validação estrita em Zod[cite: 2].
-- 💬 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Motor de mensageria com Node.js e Express, utilizando workers assíncronos e fila persistida em SQLite[cite: 5].
+- ⚡ **[Fintech Core Engine](https://github.com/devraphaeldiniz/fintech-core-engine)**: Motor contábil e de transferências em Go com partidas dobradas (*double-entry bookkeeping*), concorrência atômica, locks com Redis e particionamento de transações no PostgreSQL.
+- 🛒 **[Nexus Commerce](https://github.com/devraphaeldiniz/nexus-commerce)**: Marketplace multi-tenant em Laravel 11 com fluxo financeiro em escrow, moderação de lojistas e painel de pedidos.
+- 🔒 **[E-commerce Backend (Supabase)](https://github.com/devraphaeldiniz/ecommerce-supabase)**: Infraestrutura de dados com PostgreSQL, 35 índices, Row Level Security (RLS) granular, RBAC em 4 níveis e triggers de auditoria.
+- 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma de locação de veículos com autenticação 2FA via TOTP, rate limiting, logs de auditoria e painel administrativo.
+- 🤖 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação full stack integrada à API do Google Gemini para geração estruturada com validação de schema via Zod.
+- 💬 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Motor de mensageria em Node.js e Express, utilizando workers assíncronos e fila persistida em SQLite.
 
 ---
 
