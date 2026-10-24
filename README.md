@@ -38,6 +38,7 @@ Trabalho na modelagem e implementação de regras de negócio em ambientes conco
 - 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma de locação de veículos com autenticação 2FA via TOTP, rate limiting, logs de auditoria e painel administrativo.
 - 🤖 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação full stack integrada à API do Google Gemini para geração estruturada com validação de schema via Zod.
 - 💬 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Motor de mensageria em Node.js e Express, utilizando workers assíncronos e fila persistida em SQLite.
+- 🌐 **[Portfolio](https://www.devraphaeldiniz.com.br/)**: Site pessoal construído com Next.js 16, React 19, TypeScript, Tailwind CSS e Framer Motion, apresentando projetos, habilidades e artigos técnicos.
 
 ---
 
