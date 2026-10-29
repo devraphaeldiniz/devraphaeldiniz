@@ -1,8 +1,10 @@
 # Olá, sou Raphael Diniz 👋
 
-> **Estudante de Engenharia de Software** e Desenvolvedor Back-end com foco em concorrência, consistência transacional e modelagem de dados.
+> **Desenvolvedor Backend Júnior** com Node.js, TypeScript e PostgreSQL. Estudante de Engenharia de Software na Estácio.
 
-Trabalho na modelagem e implementação de regras de negócio em ambientes concorrentes, garantindo consistência transacional e integridade referencial. Ecossistema principal em **Go**, **TypeScript/Node.js** e **PHP/Laravel**, integrados a **PostgreSQL**, **Redis** e mensageria assíncrona.
+Antes da tecnologia, trabalhei com compras e logística. Hoje construo APIs e modelos de dados pensando primeiro no problema de negócio que eles resolvem. Meu foco é **Node.js/TypeScript** com **PostgreSQL** e **Supabase**; também tenho projetos de estudo em Go e PHP/Laravel.
+
+Busco minha primeira vaga como Desenvolvedor Backend Júnior, presencial ou híbrido em BH e região.
 
 ---
 
@@ -32,13 +34,19 @@ Trabalho na modelagem e implementação de regras de negócio em ambientes conco
 
 ### 🚀 Principais Projetos em Destaque
 
-- ⚡ **[Fintech Core Engine](https://github.com/devraphaeldiniz/fintech-core-engine)**: Motor contábil e de transferências em Go com partidas dobradas (*double-entry bookkeeping*), concorrência atômica, locks com Redis e particionamento de transações no PostgreSQL.
-- 🛒 **[Nexus Commerce](https://github.com/devraphaeldiniz/nexus-commerce)**: Marketplace multi-tenant em Laravel 11 com fluxo financeiro em escrow, moderação de lojistas e painel de pedidos.
-- 🔒 **[E-commerce Backend (Supabase)](https://github.com/devraphaeldiniz/ecommerce-supabase)**: Infraestrutura de dados com PostgreSQL, 35 índices, Row Level Security (RLS) granular, RBAC em 4 níveis e triggers de auditoria.
-- 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma de locação de veículos com autenticação 2FA via TOTP, rate limiting, logs de auditoria e painel administrativo.
-- 🤖 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação full stack integrada à API do Google Gemini para geração estruturada com validação de schema via Zod.
-- 💬 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Motor de mensageria em Node.js e Express, utilizando workers assíncronos e fila persistida em SQLite.
-- 🌐 **[Portfolio](https://www.devraphaeldiniz.com.br/)**: Site pessoal construído com Next.js 16, React 19, TypeScript, Tailwind CSS e Framer Motion, apresentando projetos, habilidades e artigos técnicos.
+**Backend com Node.js, TypeScript e PostgreSQL**
+
+- 🔒 **[E-commerce Backend (Supabase)](https://github.com/devraphaeldiniz/ecommerce-supabase)**: Modelagem em PostgreSQL com Row Level Security em todas as tabelas, RBAC em 4 níveis, triggers de auditoria e 27 testes automatizados.
+- 📦 **[Jitterbit Orders API](https://github.com/devraphaeldiniz/jitterbit-orders-api)**: API REST em Node.js e Express para pedidos, com JWT, validação com Zod, Swagger e rate limiting. Feita como teste técnico.
+- 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma em Next.js e TypeScript com autenticação 2FA via TOTP, rate limiting e logs de auditoria.
+- 💬 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Disparo de mensagens em Node.js e Express com fila persistida em SQLite e workers.
+- 🤖 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação integrada à API do Google Gemini com validação de schema via Zod.
+- 🌐 **[Portfólio](https://www.devraphaeldiniz.com.br/)**: Site pessoal em Next.js 16, React 19, TypeScript e Tailwind CSS.
+
+**Projetos de estudo em outras stacks**
+
+- ⚡ **[Fintech Core Engine](https://github.com/devraphaeldiniz/fintech-core-engine)**: Motor de transferências em Go com partidas dobradas, locks com Redis e particionamento no PostgreSQL.
+- 🛒 **[Nexus Commerce](https://github.com/devraphaeldiniz/nexus-commerce)**: Marketplace multi-tenant em Laravel 11 com fluxo de escrow e moderação de lojistas.
 
 ---
 
