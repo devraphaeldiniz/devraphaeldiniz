@@ -38,7 +38,7 @@ Busco minha primeira vaga como Desenvolvedor Backend Júnior, presencial ou híb
 
 - 🔒 **[E-commerce Backend (Supabase)](https://github.com/devraphaeldiniz/ecommerce-supabase)**: Modelagem em PostgreSQL com Row Level Security em todas as tabelas, RBAC em 4 níveis, triggers de auditoria e 27 testes automatizados.
 - 📦 **[Jitterbit Orders API](https://github.com/devraphaeldiniz/jitterbit-orders-api)**: API REST em Node.js e Express para pedidos, com JWT, validação com Zod, Swagger e rate limiting. Feita como teste técnico.
-- 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma em Next.js e TypeScript com autenticação 2FA via TOTP, rate limiting e logs de auditoria.
+- 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma em Next.js e TypeScript com painel administrativo, rate limiting no login e logs de auditoria (2FA em desenvolvimento).
 - 💬 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Disparo de mensagens em Node.js e Express com fila persistida em SQLite e workers.
 - 🤖 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação integrada à API do Google Gemini com validação de schema via Zod.
 - 🌐 **[Portfólio](https://www.devraphaeldiniz.com.br/)**: Site pessoal em Next.js 16, React 19, TypeScript e Tailwind CSS.
