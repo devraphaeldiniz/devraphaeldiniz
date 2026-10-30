@@ -46,7 +46,6 @@ Busco minha primeira vaga como Desenvolvedor Backend Júnior, presencial ou híb
 **Projetos de estudo em outras stacks**
 
 - ⚡ **[Fintech Core Engine](https://github.com/devraphaeldiniz/fintech-core-engine)**: Motor de transferências em Go com partidas dobradas, locks com Redis e particionamento no PostgreSQL.
-- 🛒 **[Nexus Commerce](https://github.com/devraphaeldiniz/nexus-commerce)**: Marketplace multi-tenant em Laravel 11 com fluxo de escrow e moderação de lojistas.
 
 ---
 
