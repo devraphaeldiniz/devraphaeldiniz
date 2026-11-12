@@ -1,10 +1,10 @@
 # Olá, sou Raphael Diniz 👋
 
-> **Desenvolvedor Backend Júnior** com Node.js, TypeScript e PostgreSQL. Estudante de Engenharia de Software na Estácio.
+> **Desenvolvedor Backend/Fullstack Júnior** com Node.js, TypeScript e PostgreSQL. Criador do [AstaCar](https://rentalcar-eight.vercel.app), locadora de carros em produção. Estudante de Engenharia de Software na Estácio.
 
 Antes da tecnologia, trabalhei com compras e logística. Hoje construo APIs e modelos de dados pensando primeiro no problema de negócio que eles resolvem. Meu foco é **Node.js/TypeScript** com **PostgreSQL** e **Supabase**; também tenho projetos de estudo em Go e PHP/Laravel.
 
-Busco minha primeira vaga como Desenvolvedor Backend Júnior, presencial ou híbrido em BH e região.
+Busco minha primeira vaga como Desenvolvedor Backend ou Fullstack Júnior, presencial ou híbrido em BH, SP, Campinas, Florianópolis ou Curitiba, ou remoto. Portfólio: [devraphaeldiniz.com.br](https://devraphaeldiniz.com.br)
 
 ---
 
