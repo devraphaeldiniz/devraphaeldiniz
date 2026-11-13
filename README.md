@@ -36,9 +36,9 @@ Busco minha primeira vaga como Desenvolvedor Backend ou Fullstack Júnior, prese
 
 **Backend com Node.js, TypeScript e PostgreSQL**
 
+- 🚗 **[AstaCar](https://github.com/devraphaeldiniz/rentalcar)** ([demo no ar](https://rentalcar-eight.vercel.app)): locadora de carros em produção com Next.js 15, TypeScript, Hasura e PostgreSQL. Checkout com Mercado Pago, proteção contra overbooking via `EXCLUDE USING gist`, painel admin com funil de conversão, 101 testes e Lighthouse 100.
 - 🔒 **[E-commerce Backend (Supabase)](https://github.com/devraphaeldiniz/ecommerce-supabase)**: Modelagem em PostgreSQL com Row Level Security em todas as tabelas, RBAC em 4 níveis, triggers de auditoria e 27 testes automatizados.
 - 📦 **[Jitterbit Orders API](https://github.com/devraphaeldiniz/jitterbit-orders-api)**: API REST em Node.js e Express para pedidos, com JWT, validação com Zod, Swagger e rate limiting. Feita como teste técnico.
-- 🚗 **[RentalCar - Locação de Veículos](https://github.com/devraphaeldiniz/rentalcar)**: Plataforma em Next.js e TypeScript com painel administrativo, rate limiting no login e logs de auditoria (2FA em desenvolvimento).
 - 💬 **[WhatsApp Disparador](https://github.com/devraphaeldiniz/whatsapp-disparador)**: Disparo de mensagens em Node.js e Express com fila persistida em SQLite e workers.
 - 🤖 **[Gerador de Planos de Aula com IA](https://github.com/devraphaeldiniz/plano-aula-ia)**: Aplicação integrada à API do Google Gemini com validação de schema via Zod.
 - 🌐 **[Portfólio](https://www.devraphaeldiniz.com.br/)**: Site pessoal em Next.js 16, React 19, TypeScript e Tailwind CSS.
